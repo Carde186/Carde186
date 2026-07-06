@@ -3,11 +3,10 @@
 <br/>
 <h3 align="center">ITS Full Stack Developer Student at ITS Prodigi</h3>
 
-- 🔭 Working on: **Waveset**, backend Spring Boot per una piattaforma di scoperta musica elettronica
-- 🌱 I'm learning: **React**
+- 🌱 I’m currently learning: **React**
 - 🐾 Favorite animal: **racoon**
 - ⚡ Fun fact: **love EDM music**
-- 📫 How to reach me <strong><a href="lorenzocardellini86@gmail.com">lorenzocardellini86@gmail.com</a></strong>
+- 📫 How to reach me: <strong><a href="lorenzocardellini86@gmail.com">lorenzocardellini86@gmail.com</a></strong>
 
 <br>
 
