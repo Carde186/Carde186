@@ -1,13 +1,14 @@
-<h1 align="center">Ciao 👋, sono Lorenzo</h1>
-<h3 align="center">Studente ITS Full Stack Developer presso ITS Prodigi</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Lorenzo%20Cardellini&reversal=false&fontColor=7B1CB0&animation=blink&fontAlignY=45&section=header&fontAlign=50"></p>
+<h3 align="center">ITS Full Stack Developer Student at ITS Prodigi</h3>
 
-- 🔭Sto lavorando su: **Waveset**, backend Spring Boot per una piattaforma di scoperta musica elettronica
+- 🔭 Working on: **Waveset**, backend Spring Boot per una piattaforma di scoperta musica elettronica
 
-- 🌱 Sto imparando: **React**
+- 🌱 I'm learning: **React**
  
-- 🐾 Animale preferito: **il procione**
+- 🐾 Favorite animal: **racoon**
   
-- ⚡ Fun fact: **adoro la musica EDM**
+- ⚡ Fun fact: **love EDM music**
 <br>
 <img width="200" src="https://media.istockphoto.com/id/518257281/photo/sleeping-coon.jpg?s=612x612&w=0&k=20&c=XL5q9F9jBhBACvTLXScNoa5pYVJjPNroyNcUxWaakP8=">
 
