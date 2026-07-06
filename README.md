@@ -13,7 +13,7 @@
 <img width="200" src="https://media.istockphoto.com/id/518257281/photo/sleeping-coon.jpg?s=612x612&w=0&k=20&c=XL5q9F9jBhBACvTLXScNoa5pYVJjPNroyNcUxWaakP8=">
 
 
-<h2 align="center" style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
+<h3 align="center" style="display: inline-block; border-bottom:none">Technologies That I Know: 👨🏻‍💻</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
